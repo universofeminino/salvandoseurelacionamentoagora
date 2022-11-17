@@ -1,0 +1,103 @@
+body{
+    background: linear-gradient(to right , rgba(252, 220, 247, 0.973), rgba(247, 197, 240, 0.712))
+}
+
+
+
+h1{
+    background-color: rgb(241, 133, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+    text-align: center;
+    color: rgb(253, 8, 221);
+
+}
+
+.liner{
+    border-bottom: 1px solid rgb(253, 8, 221);
+}
+
+.chamada{
+
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.349);
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+
+}
+
+li { list-style-type: none; }
+
+img{
+    border-radius: 10px;
+}
+
+.passos{
+    display: contents;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.p1 h2{
+
+    font-size: 32px;
+    background-color: rgba(240, 248, 255, 0.349);
+    color: rgb(253, 8, 221);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.p1 h2 p{
+    font-size: 24px;
+    color: rgb(255, 93, 233);
+    
+}
+
+.p1 ul{
+
+    background-color: rgba(240, 248, 255, 0.349);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.p1 ul ul{
+    font-size: 22px;
+    background:none;
+}
+
+
+.p1 ul li{
+    font-size: 22px;
+    margin-top: 20px;
+} 
+.p1 ul p{
+    margin-top: 5px;
+}
+
+.continuar{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.continuar a li{
+
+
+text-decoration: none;
+list-style: none;
+color: rgb(253, 8, 221);
+border-radius: 20px;
+padding: 2%;
+
+}
+
+.continuar a li:hover{
+
+    background-color: rgba(253, 8, 220, 0.247);
+    color: rgb(105, 26, 95);
+}
